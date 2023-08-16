@@ -1,0 +1,14 @@
+{
+  "name": "restapi_node_express",
+  "version": "1.0.0",
+  "description": "rest api of acronyms commonly used in software development",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Cristine Eross",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
